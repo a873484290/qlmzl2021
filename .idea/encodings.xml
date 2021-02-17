@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/common_utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/common_utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/service_base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/service_base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/service_base/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/oss/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/service_deu" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/service_deu/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/service_deu/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

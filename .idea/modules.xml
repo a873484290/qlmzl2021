@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ali_parent.iml" filepath="$PROJECT_DIR$/ali_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/com_utils.iml" filepath="$PROJECT_DIR$/common/com_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common_utils/common_utils.iml" filepath="$PROJECT_DIR$/common/common_utils/common_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/oss/oss.iml" filepath="$PROJECT_DIR$/service/oss/oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/service_base/service_base.iml" filepath="$PROJECT_DIR$/common/service_base/service_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service_deu/service_deu.iml" filepath="$PROJECT_DIR$/service/service_deu/service_deu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common_utils/utils.iml" filepath="$PROJECT_DIR$/common/common_utils/utils.iml" />
+    </modules>
+  </component>
+</project>
