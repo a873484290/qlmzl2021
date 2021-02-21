@@ -1,6 +1,7 @@
 package com.baidu.eduservice.service;
 
 import com.baidu.eduservice.entity.EduCourse;
+import com.baidu.eduservice.entity.vo.CourseQuery;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**
@@ -13,4 +14,5 @@ import com.baomidou.mybatisplus.extension.service.IService;
  */
 public interface EduCourseService extends IService<EduCourse> {
 
+    void saveCourse(CourseQuery courseQuery);
 }

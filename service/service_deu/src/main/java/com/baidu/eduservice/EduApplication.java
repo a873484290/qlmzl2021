@@ -14,6 +14,7 @@ import org.springframework.context.annotation.ComponentScan;
 @ComponentScan(basePackages = {"com.baidu"})
 public class EduApplication {
     public static void main(String[] args) {
+        System.out.println("EduApplication");
         SpringApplication.run(EduApplication.class, args);
     }
 
